@@ -1,3 +1,6 @@
 """Use python3"""
-"""install :Win+R - cmd - pip install pywin32 pystray pillow appdirs  """
+"""install :Win+R - cmd - pip install pywin32 pystray pillow appdirs."""
 """Win+R - cmd - python.exe /path/app_Demo.py"""
+###############################################################################
+"""test_glass_menu_demo_start_reboot.py"""
+"""If a file gets stuck in the system, delete it and restart the computer. Contact the GPT chat for help."""
