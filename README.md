@@ -1,3 +1,6 @@
+"glass.exe"
+Please test my application at https://www.virtualbox.org/ for a comfortable testing experience.
+
 """Use python3"""
 """install :Win+R - cmd - pip install pywin32 pystray pillow appdirs."""
 """Win+R - cmd - python.exe /path/app_Demo.py"""
